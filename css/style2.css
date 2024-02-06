@@ -1,0 +1,18 @@
+body {background-color: white; }
+.center {margin: auto; width: 85%;}
+.wide{width: 100%; margin-bottom:8px;}
+h1{font-family: courier; font-size: 36px; color:#000000;}
+h2{font-family: courier; font-size: 24px; color: #000000;}
+p{font-family: courier; font-size: 16px; color: #000000;}
+li{font-family: courier; font-size: 16px; color: #000000;}
+button {text-align: center; } button:hover { background-color: lightgray;}
+button { background-color: transparent; width:250px; height:250px; border-radius:100%; border-color:transparent; }
+
+.refresh {text-align: center; } button:hover { background-color: lightgray;}
+.refresh { background-color: transparent; width:100px; height:100px; border-color:black;}
+.secret { background-color: transparent; width:1px; height:1px; border-color:transparent;}
+
+a:link{color: #3232cd; text-decoration: none; }
+a:hover{color: #cc0000; text-decoration: underline; }
+
+.big { background-color: transparent; width:2500px; height:2500px; border-radius:100%; border-color:transparent; }
